@@ -1,5 +1,3 @@
-# Name the file microsoft.ad.ldap.yml
-
 plugin: microsoft.ad.ldap
 
 ### Supplied by custom credential type ###
